@@ -14,5 +14,5 @@
 
 Apps were developed by HypeTeq Software Solutions Pvt. Ltd. [Website](https://hypeteq.com/)
 
-![](s1.png)![](s2.png)![](s3.png)
+![](banner.png)
 
